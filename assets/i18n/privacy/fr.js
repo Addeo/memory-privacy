@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "Politique de confidentialité -Pairloom",
+  "h1": "politique de confidentialité",
+  "metaHtml": "<strong>Pairloom</strong> (jeu de mémoire) · ID de l’app <code>game.memory.cards</code> · Dernière mise à jour: <time datetime=\"2026-04-04\">4 avril 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Cette politique de confidentialité décrit comment<strong>Sergey Kosilov</strong>(développeur indépendant ; \"nous\", \"notre\") gère les informations lorsque vous utilisez l'application mobile<strong>Pairloom</strong>(l'« Application »), y compris lorsque vous l'exécutez dans un navigateur Web dans lequel nous rendons cette version disponible. Il couvre également les achats intégrés facultatifs."
+    },
+    {
+      "type": "h2",
+      "text": "1. Qui nous sommes"
+    },
+    {
+      "type": "p",
+      "html": "Responsable du traitement :<strong>Sergey Kosilov</strong>(développeur indépendant)<br />Contact:<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Résumé"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Nous faisons<strong>pas</strong>vous oblige à créer un compte dans l'application.",
+        "Nous faisons<strong>pas</strong>exploiter nos propres serveurs pour synchroniser votre progression en jeu ; les données du jeu sont stockées<strong>sur votre appareil</strong>.",
+        "Les images que vous choisissez pour les faces de cartes personnalisées sont conservées<strong>stockage d'applications locales</strong>sur votre appareil. Nous ne les téléchargeons pas sur notre infrastructure pour cette fonctionnalité.",
+        "Si vous achetez ou restaurez un abonnement ou un déverrouillage à vie,<strong>Apple</strong>, <strong>Google</strong>, et notre partenaire de facturation<strong>RevenueCat</strong>traiter les données relatives aux paiements conformément à leurs politiques.",
+        "La version de l'application décrite par cette politique ne<strong>pas</strong>intégrez des analyses tierces ou des SDK de rapport d'erreur. Si nous les ajoutons plus tard, nous mettrons à jour cette politique et obtiendrons le consentement si nécessaire."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Informations que nous traitons"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Données de l'application locale (sur votre appareil)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "L’Application stocke localement les préférences et les informations relatives au jeu en utilisant le stockage de la plateforme (par exemple<strong>Capacitor Preferences</strong>sur iOS/Android et<strong>stockage local du navigateur</strong>le cas échéant). Cela peut inclure, selon la manière dont vous utilisez l'application :"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Paramètres du jeu et de l'interface utilisateur (par exemple, taille du plateau, thèmes des cartes, typographie et options associées).",
+        "Préférence de langue/locale.",
+        "Préférence d’apparence claire ou foncée.",
+        "Progression et statistiques (par exemple progression de la quête, progression générale, meilleurs temps ou scores où l'application les enregistre).",
+        "Aides au gameplay que vous utilisez (par exemple, compteurs d'utilisation d'indices ou données de séquence, le cas échéant).",
+        "Métadonnées de synchronisation utilisées pour les récompenses ou les sessions dans l'application (par exemple, les horodatages de la dernière session), si ces fonctionnalités sont activées.",
+        "Les remplacements de texte facultatifs liés à l'accessibilité que vous configurez dans l'application.",
+        "UN<strong>comptoir local</strong>de jeux terminés qui utilisaient des fonctionnalités premium alors que vous n'étiez pas abonné, utilisés uniquement pour appliquer l'essai gratuit limité des options premium de l'application."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Ces données restent sur votre appareil, sauf si vous effacez les données de l'application, effacez les données du site (navigateur) ou désinstallez l'application. Nous ne pouvons pas y accéder à distance car nous n'exécutons pas de backend de gameplay lié à votre installation."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Photos et médias (fonctionnalité premium)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Si vous utilisez des images personnalisées sur des cartes, l'application accède à votre photothèque ou à votre appareil photo.<strong>seulement lorsque vous initialisez</strong>ce flux. Les images sélectionnées sont stockées dans<strong>stockage d'applications locales</strong>(ou, dans certaines versions de navigateur, sous forme de données dans le navigateur telles que des URL de données) afin qu'elles puissent être affichées sur les cartes. Nous n'opérons pas de téléchargement cloud de vos images personnalisées dans le cadre de l'application."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Achats et abonnements</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Les achats sont traités par<strong>Apple App Store</strong>ou<strong>GoogleJouer</strong>. Nous utilisons<strong>RevenueCat</strong>pour valider les droits et l'état de l'abonnement dans l'application.RevenueCatpeut traiter les identifiants et acheter les événements nécessaires pour fournir ce service.AppleetGooglepeut associer des achats à votre compte de magasin."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "ApplePolitique de confidentialité:<a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "GooglePolitique de confidentialité:<a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">politiques.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Caractéristiques de l'appareil</strong>"
+    },
+    {
+      "type": "p",
+      "html": "L'application peut utiliser les fonctionnalités de l'appareil telles que<strong>haptique</strong>, <strong>barre d'état</strong>style, ou<strong>clavier</strong>comportement. Ces fonctionnalités sont utilisées localement pour améliorer l’expérience et ne sont pas utilisées par nous pour créer votre profil."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Analyses et rapports d'accidents</strong>"
+    },
+    {
+      "type": "p",
+      "html": "La base de code et les dépendances de l'application, telles que publiées dans le cadre de la présente politique, ne<strong>pas</strong>inclure des services d’analyse tiers intégrés ou de rapports d’accidents. La journalisation des diagnostics peut apparaître dans<strong>versions de développement uniquement</strong>et n'est pas destiné aux utilisateurs finaux de production. Si nous ajoutons des analyses ou des rapports d'erreur ultérieurement, nous mettrons à jour cette politique et, lorsque la loi l'exige, nous vous demanderons votre consentement."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Liens et contenus externes</strong>"
+    },
+    {
+      "type": "p",
+      "html": "L'Application peut ouvrir des pages Web (par exemple des documents juridiques ou la gestion des abonnements) dans votre navigateur ou dans une vue de navigateur intégrée à l'application. Ces sites sont exploités par des tiers et ont leurs propres pratiques de confidentialité."
+    },
+    {
+      "type": "h2",
+      "text": "4. Bases juridiques (utilisateurs EEE / Royaume-Uni)"
+    },
+    {
+      "type": "p",
+      "html": "Lorsque la loi applicable exige une base légale : nous traitons les données relatives aux achats pour<strong>exécuter notre contrat</strong>avec vous (offrant des fonctionnalités premium) ; nous traitons les données des applications locales sur la base de<strong>votre utilisation de l'application</strong>et, le cas échéant,<strong>intérêts légitimes</strong>dans l’exploitation et la sécurisation de l’Application, en tenant compte de vos droits."
+    },
+    {
+      "type": "h2",
+      "text": "5. Rétention"
+    },
+    {
+      "type": "p",
+      "html": "Les données locales restent jusqu'à ce que vous les supprimiez ou désinstalliez l'application (ou effacez le stockage du navigateur pour les versions Web). Dossiers détenus parApple, Google, ouRevenueCatsont conservés comme décrit dans leurs politiques."
+    },
+    {
+      "type": "h2",
+      "text": "6. Enfants"
+    },
+    {
+      "type": "p",
+      "html": "L'application n'est pas destinée aux enfants n'ayant pas l'âge requis par votre région pour consentir au traitement des données sans autorisation parentale. Si vous pensez que nous avons collecté des informations personnelles sur un enfant de manière inappropriée, contactez-nous et nous prendrons des mesures raisonnables pour y remédier."
+    },
+    {
+      "type": "h2",
+      "text": "7. Vos droits"
+    },
+    {
+      "type": "p",
+      "html": "En fonction de votre localisation, vous pouvez avoir le droit d'accéder, de corriger, de supprimer ou de restreindre certains traitements, ou de vous opposer ou de porter des données. Contactez-nous à l'e-mail ci-dessus. Vous pouvez également déposer une plainte auprès de votre autorité locale de protection des données. Pour les données d'achat et de réception,AppleouGooglepeut être le contact principal en vertu de leurs politiques."
+    },
+    {
+      "type": "h2",
+      "text": "8. Virements internationaux"
+    },
+    {
+      "type": "p",
+      "html": "Nos prestataires de services peuvent traiter des données dans des pays autres que le vôtre. Si nécessaire, ils utilisent des garanties appropriées (telles que des clauses contractuelles types)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Modifications"
+    },
+    {
+      "type": "p",
+      "html": "Nous pouvons mettre à jour cette politique de temps à autre. Nous publierons la nouvelle version sur cette page et mettrons à jour la date de « Dernière mise à jour ». L'utilisation continue de l'application après les modifications signifie que vous acceptez la politique mise à jour, dans la mesure permise par la loi."
+    },
+    {
+      "type": "h2",
+      "text": "10. Contacter"
+    },
+    {
+      "type": "p",
+      "html": "Questions :<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

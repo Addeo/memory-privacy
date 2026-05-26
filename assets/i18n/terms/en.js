@@ -1,0 +1,122 @@
+export default {
+  "pageTitle": "Terms of Use — Pairloom",
+  "h1": "Terms of Use",
+  "metaHtml": "<strong>Pairloom</strong> (memory card game) · App ID <code>game.memory.cards</code> · Last updated: <time datetime=\"2026-04-04\">April 4, 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "These Terms of Use (“Terms”) govern your use of the application <strong>Pairloom</strong> (the “App”) provided by <strong>Sergey Kosilov</strong> (indie developer; “we”, “us”), including native builds for mobile devices and any browser build we distribute. By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App."
+    },
+    {
+      "type": "h2",
+      "text": "1. The service"
+    },
+    {
+      "type": "p",
+      "html": "Pairloom is a casual memory matching game. Some features are available for free; others require an active <strong>premium</strong> entitlement (via subscription or a one-time “lifetime” purchase), as offered in the App and in the store."
+    },
+    {
+      "type": "h2",
+      "text": "2. Eligibility"
+    },
+    {
+      "type": "p",
+      "html": "You must comply with the minimum age and account rules of the Apple App Store or Google Play in your country. If you are a minor, a parent or guardian must accept these Terms on your behalf where required by law."
+    },
+    {
+      "type": "h2",
+      "text": "3. Subscriptions, purchases, and limited premium try-out"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Billing.</strong> Payments are processed by <strong>Apple</strong> or <strong>Google</strong>, not by us directly. Your use of those platforms is subject to their terms and privacy policies.",
+        "<strong>Auto-renewal.</strong> If you purchase a subscription, it renews automatically until you cancel in your store account settings. You can manage or cancel subscriptions in the App Store or Google Play subscription settings. On iOS, you may also use Apple’s subscription management page linked from the App where applicable.",
+        "<strong>Trials and pricing.</strong> Free trials, introductory pricing, and renewal prices are shown in the store at the time of purchase.",
+        "<strong>Limited premium try-out.</strong> If you are not subscribed, the App may allow you to complete a <strong>limited number</strong> of games that use certain premium options (for example larger boards, additional themes, or custom photos). The limit and remaining uses are shown or implied in the App. After the limit, you must purchase or subscribe to continue using those premium options (subject to store offerings).",
+        "<strong>Lifetime unlock.</strong> If offered, a non-consumable “lifetime” purchase unlocks the premium entitlement for as long as we reasonably support the App, as described in the store listing.",
+        "<strong>Refunds.</strong> Refund requests are handled by Apple or Google according to their policies."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4. License to use the App"
+    },
+    {
+      "type": "p",
+      "html": "We grant you a personal, non-exclusive, non-transferable, revocable license to install and use the App for your own non-commercial entertainment, subject to these Terms and store rules. You may not copy, modify, distribute, sell, or reverse engineer the App except where mandatory law allows."
+    },
+    {
+      "type": "h2",
+      "text": "5. User content (your photos)"
+    },
+    {
+      "type": "p",
+      "html": "If you use features that let you select images from your device, you are responsible for having the right to use those images. Images used for custom cards are stored <strong>locally on your device</strong> as part of the App’s operation. Do not use unlawful, infringing, or harmful content."
+    },
+    {
+      "type": "h2",
+      "text": "6. Acceptable use"
+    },
+    {
+      "type": "p",
+      "html": "You agree not to misuse the App, including by attempting to cheat billing, interfere with other users’ systems, or violate applicable law."
+    },
+    {
+      "type": "h2",
+      "text": "7. Intellectual property"
+    },
+    {
+      "type": "p",
+      "html": "The App, its design, assets, and branding are owned by us or our licensors. Except for the limited license above, no rights are granted."
+    },
+    {
+      "type": "h2",
+      "text": "8. Disclaimer of warranties"
+    },
+    {
+      "type": "p",
+      "html": "The App is provided “as is” and “as available” to the fullest extent permitted by law. We do not guarantee uninterrupted or error-free operation."
+    },
+    {
+      "type": "h2",
+      "text": "9. Limitation of liability"
+    },
+    {
+      "type": "p",
+      "html": "To the maximum extent permitted by applicable law, we are not liable for indirect, incidental, special, consequential, or punitive damages, or for any loss of profits or data, arising from your use of the App. Our total liability for any claim relating to the App is limited to the amount you paid us in the twelve (12) months before the claim (if any), or, if greater, the minimum amount required by mandatory consumer law in your jurisdiction."
+    },
+    {
+      "type": "h2",
+      "text": "10. Changes to the App or Terms"
+    },
+    {
+      "type": "p",
+      "html": "We may update the App or these Terms. Material changes will be reflected by updating this page and the “Last updated” date. Continued use after changes constitutes acceptance where permitted by law. If you do not agree, stop using the App and cancel any subscription through the store."
+    },
+    {
+      "type": "h2",
+      "text": "11. Termination"
+    },
+    {
+      "type": "p",
+      "html": "We may suspend or stop providing the App or your access if you breach these Terms or if required by law. You may stop using the App at any time."
+    },
+    {
+      "type": "h2",
+      "text": "12. Governing law"
+    },
+    {
+      "type": "p",
+      "html": "These Terms are governed by the laws of the <strong>Russian Federation</strong>, excluding conflict-of-law rules, except where mandatory consumer protection laws of your country require otherwise."
+    },
+    {
+      "type": "h2",
+      "text": "13. Contact"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Sergey Kosilov</strong> (indie developer)<br /><a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

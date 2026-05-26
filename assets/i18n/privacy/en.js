@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "Privacy Policy — Pairloom",
+  "h1": "Privacy Policy",
+  "metaHtml": "<strong>Pairloom</strong> (memory card game) · App ID <code>game.memory.cards</code> · Last updated: <time datetime=\"2026-04-04\">April 4, 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "This Privacy Policy describes how <strong>Sergey Kosilov</strong> (indie developer; “we”, “us”) handles information when you use the mobile application <strong>Pairloom</strong> (the “App”), including when you run it in a web browser where we make that build available. It also covers optional in-app purchases."
+    },
+    {
+      "type": "h2",
+      "text": "1. Who we are"
+    },
+    {
+      "type": "p",
+      "html": "Data controller: <strong>Sergey Kosilov</strong> (indie developer)<br />Contact: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Summary"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "We do <strong>not</strong> require you to create an account in the App.",
+        "We do <strong>not</strong> operate our own servers to sync your gameplay progress; game data is stored <strong>on your device</strong>.",
+        "Images you choose for custom card faces are kept in <strong>local app storage</strong> on your device. We do not upload them to our infrastructure for that feature.",
+        "If you buy or restore a subscription or lifetime unlock, <strong>Apple</strong>, <strong>Google</strong>, and our billing partner <strong>RevenueCat</strong> process payment-related data according to their policies.",
+        "The App version described by this Policy does <strong>not</strong> embed third-party analytics or crash-reporting SDKs. If we add them later, we will update this Policy and obtain consent where required."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Information we process"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Local app data (on your device)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "The App stores preferences and game-related information locally using the platform’s storage (for example <strong>Capacitor Preferences</strong> on iOS/Android and <strong>browser local storage</strong> where applicable). This may include, depending on how you use the App:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Game and UI settings (for example board size, card themes, typography, and related options).",
+        "Language / locale preference.",
+        "Light or dark appearance preference.",
+        "Progress and statistics (for example quest progress, general progress, best times or scores where the App records them).",
+        "Gameplay helpers you use (for example hint usage counters or streak data, if applicable).",
+        "Timing metadata used for in-app rewards or sessions (for example last session timestamps), if those features are enabled.",
+        "Optional accessibility-related text overrides you configure in the App.",
+        "A <strong>local counter</strong> of completed games that used premium features while you are not subscribed, used only to enforce the App’s limited free try-out of premium options."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "This data remains on your device unless you clear app data, clear site data (browser), or uninstall the App. We cannot access it remotely because we do not run a gameplay backend tied to your installation."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Photos and media (premium feature)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "If you use custom pictures on cards, the App accesses your photo library or camera <strong>only when you initiate</strong> that flow. Selected images are stored in <strong>local app storage</strong> (or, in some browser builds, as in-browser data such as data URLs) so they can be shown on cards. We do not operate a cloud upload of your custom images as part of the App."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Purchases and subscriptions</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Purchases are processed by <strong>Apple App Store</strong> or <strong>Google Play</strong>. We use <strong>RevenueCat</strong> to validate entitlements and subscription state inside the App. RevenueCat may process identifiers and purchase events needed to provide that service. Apple and Google may associate purchases with your store account."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apple Privacy Policy: <a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "Google Privacy Policy: <a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Device features</strong>"
+    },
+    {
+      "type": "p",
+      "html": "The App may use device capabilities such as <strong>haptics</strong>, <strong>status bar</strong> styling, or <strong>keyboard</strong> behavior. These features are used locally to improve the experience and are not used by us to build a profile of you."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Analytics and crash reporting</strong>"
+    },
+    {
+      "type": "p",
+      "html": "The codebase and dependencies for the App, as released under this Policy, do <strong>not</strong> include integrated third-party analytics or crash-reporting services. Diagnostic logging may appear in <strong>development builds only</strong> and is not intended for production end users. If we add analytics or crash reporting later, we will update this Policy and, where required by law, ask for your consent."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Links and external content</strong>"
+    },
+    {
+      "type": "p",
+      "html": "The App may open web pages (for example legal documents or subscription management) in your browser or an in-app browser view. Those sites are operated by third parties and have their own privacy practices."
+    },
+    {
+      "type": "h2",
+      "text": "4. Legal bases (EEA / UK users)"
+    },
+    {
+      "type": "p",
+      "html": "Where applicable law requires a legal basis: we process purchase-related data to <strong>perform our contract</strong> with you (providing premium features); we process local app data based on <strong>your use of the App</strong> and, where relevant, <strong>legitimate interests</strong> in operating and securing the App, balanced against your rights."
+    },
+    {
+      "type": "h2",
+      "text": "5. Retention"
+    },
+    {
+      "type": "p",
+      "html": "Local data remains until you remove it or uninstall the App (or clear browser storage for web builds). Records held by Apple, Google, or RevenueCat are retained as described in their policies."
+    },
+    {
+      "type": "h2",
+      "text": "6. Children"
+    },
+    {
+      "type": "p",
+      "html": "The App is not directed at children under the age required by your region to consent to data processing without parental permission. If you believe we have collected personal information from a child inappropriately, contact us and we will take reasonable steps to address it."
+    },
+    {
+      "type": "h2",
+      "text": "7. Your rights"
+    },
+    {
+      "type": "p",
+      "html": "Depending on your location, you may have rights to access, correct, delete, or restrict certain processing, or to object or port data. Contact us at the email above. You may also lodge a complaint with your local data protection authority. For purchase and receipt data, Apple or Google may be the primary contact under their policies."
+    },
+    {
+      "type": "h2",
+      "text": "8. International transfers"
+    },
+    {
+      "type": "p",
+      "html": "Our service providers may process data in countries other than yours. Where required, they use appropriate safeguards (such as standard contractual clauses)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Changes"
+    },
+    {
+      "type": "p",
+      "html": "We may update this Policy from time to time. We will post the new version on this page and update the “Last updated” date. Continued use of the App after changes means you accept the updated Policy, to the extent permitted by law."
+    },
+    {
+      "type": "h2",
+      "text": "10. Contact"
+    },
+    {
+      "type": "p",
+      "html": "Questions: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

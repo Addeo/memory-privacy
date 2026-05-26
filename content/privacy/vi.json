@@ -1,0 +1,166 @@
+{
+  "pageTitle": "Chính sách quyền riêng tư — Pairloom",
+  "h1": "Chính sách bảo mật",
+  "metaHtml": "<strong>Pairloom</strong> (trò chơi trí nhớ) · ID ứng dụng <code>game.memory.cards</code> · Cập nhật lần cuối: <time datetime=\"2026-04-04\">4 tháng 4 năm 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Chính sách quyền riêng tư này mô tả cách <strong>Sergey Kosilov</strong> (nhà phát triển độc lập; “chúng tôi”, “chúng tôi”) xử lý thông tin khi bạn sử dụng ứng dụng di động <strong>Pairloom</strong> (“Ứng dụng”), kể cả khi bạn chạy ứng dụng đó trong trình duyệt web nơi chúng tôi cung cấp bản dựng đó. Nó cũng bao gồm các giao dịch mua trong ứng dụng tùy chọn."
+    },
+    {
+      "type": "h2",
+      "text": "1. Chúng tôi là ai"
+    },
+    {
+      "type": "p",
+      "html": "Người kiểm soát dữ liệu: <strong>Sergey Kosilov</strong> (nhà phát triển độc lập)<br />Liên hệ: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Tóm tắt"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Chúng tôi <strong>không</strong> yêu cầu bạn tạo tài khoản trong Ứng dụng.",
+        "Chúng tôi <strong>không</strong> vận hành máy chủ của riêng mình để đồng bộ hóa tiến trình chơi trò chơi của bạn; dữ liệu trò chơi được lưu trữ <strong>trên thiết bị của bạn</strong>.",
+        "Hình ảnh bạn chọn cho mặt thẻ tùy chỉnh được lưu giữ trong <strong>bộ nhớ ứng dụng cục bộ</strong> trên thiết bị của bạn. Chúng tôi không tải chúng lên cơ sở hạ tầng của chúng tôi cho tính năng đó.",
+        "Nếu bạn mua hoặc khôi phục đăng ký hoặc mở khóa trọn đời, <strong>Apple</strong>, <strong>Google</strong> và đối tác thanh toán của chúng tôi <strong>RevenueCat</strong> sẽ xử lý dữ liệu liên quan đến thanh toán theo chính sách của họ.",
+        "Phiên bản Ứng dụng được Chính sách này mô tả <strong>không</strong> nhúng các SDK báo cáo sự cố hoặc phân tích của bên thứ ba. Nếu chúng tôi thêm chúng sau này, chúng tôi sẽ cập nhật Chính sách này và nhận được sự đồng ý khi cần thiết."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Thông tin chúng tôi xử lý"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Dữ liệu ứng dụng cục bộ (trên thiết bị của bạn)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Ứng dụng lưu trữ cục bộ các tùy chọn và thông tin liên quan đến trò chơi bằng cách sử dụng bộ nhớ của nền tảng (ví dụ: <strong>Capacitor Preferences</strong> trên iOS/Android và <strong>bộ nhớ cục bộ của trình duyệt</strong> nếu có). Điều này có thể bao gồm, tùy thuộc vào cách bạn sử dụng Ứng dụng:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cài đặt trò chơi và giao diện người dùng (ví dụ: kích thước bảng, chủ đề thẻ, kiểu chữ và các tùy chọn liên quan).",
+        "Tùy chọn ngôn ngữ/địa phương.",
+        "Ưu tiên ngoại hình sáng hoặc tối.",
+        "Tiến trình và số liệu thống kê (ví dụ: tiến trình nhiệm vụ, tiến trình chung, thời điểm hoặc điểm số tốt nhất mà Ứng dụng ghi lại).",
+        "Những công cụ trợ giúp về lối chơi mà bạn sử dụng (ví dụ: bộ đếm mức sử dụng gợi ý hoặc dữ liệu chuỗi, nếu có).",
+        "Siêu dữ liệu về thời gian được sử dụng cho phần thưởng hoặc phiên trong ứng dụng (ví dụ: dấu thời gian của phiên cuối cùng), nếu các tính năng đó được bật.",
+        "Văn bản liên quan đến khả năng truy cập tùy chọn ghi đè mà bạn định cấu hình trong Ứng dụng.",
+        "<strong>Bộ đếm cục bộ</strong> gồm các trò chơi đã hoàn thiện sử dụng các tính năng cao cấp trong khi bạn chưa đăng ký, chỉ được sử dụng để thực thi việc dùng thử miễn phí có giới hạn các tùy chọn cao cấp của Ứng dụng."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Dữ liệu này vẫn còn trên thiết bị của bạn trừ khi bạn xóa dữ liệu ứng dụng, xóa dữ liệu trang web (trình duyệt) hoặc gỡ cài đặt Ứng dụng. Chúng tôi không thể truy cập nó từ xa vì chúng tôi không chạy phần phụ trợ trò chơi gắn liền với cài đặt của bạn."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Ảnh và phương tiện (tính năng cao cấp)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Nếu bạn sử dụng ảnh tùy chỉnh trên thẻ thì Ứng dụng chỉ truy cập vào thư viện ảnh hoặc máy ảnh của bạn <strong>khi bạn bắt đầu</strong> luồng đó. Hình ảnh đã chọn được lưu trữ trong <strong>bộ nhớ ứng dụng cục bộ</strong> (hoặc trong một số bản dựng trình duyệt, dưới dạng dữ liệu trong trình duyệt, chẳng hạn như URL dữ liệu) để chúng có thể hiển thị trên thẻ. Chúng tôi không vận hành việc tải lên đám mây các hình ảnh tùy chỉnh của bạn như một phần của Ứng dụng."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Mua hàng và đăng ký</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Các giao dịch mua được xử lý bởi <strong>Apple App Store</strong> hoặc <strong>Google Play</strong>. Chúng tôi sử dụng <strong>RevenueCat</strong> để xác thực các quyền và trạng thái đăng ký bên trong Ứng dụng. RevenueCat có thể xử lý số nhận dạng và sự kiện mua hàng cần thiết để cung cấp dịch vụ đó. Apple và Google có thể liên kết các giao dịch mua hàng với tài khoản cửa hàng của bạn."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apple Chính sách quyền riêng tư: <a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "Google Chính sách bảo mật: <a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Tính năng của thiết bị</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Ứng dụng có thể sử dụng các chức năng của thiết bị như <strong>haptics</strong>, kiểu dáng <strong>thanh trạng thái</strong> hoặc hành vi <strong>bàn phím</strong>. Những tính năng này được sử dụng cục bộ để cải thiện trải nghiệm và chúng tôi không sử dụng chúng để xây dựng hồ sơ về bạn."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Phân tích và báo cáo sự cố</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Cơ sở mã và các phần phụ thuộc của Ứng dụng, được phát hành theo Chính sách này, <strong>không</strong> bao gồm các dịch vụ phân tích tích hợp hoặc báo cáo sự cố của bên thứ ba. Ghi nhật ký chẩn đoán có thể xuất hiện trong <strong>chỉ các bản dựng phát triển</strong> và không dành cho người dùng cuối sản xuất. Nếu sau này chúng tôi thêm phân tích hoặc báo cáo sự cố, chúng tôi sẽ cập nhật Chính sách này và, nếu pháp luật yêu cầu, sẽ yêu cầu sự đồng ý của bạn."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Liên kết và nội dung bên ngoài</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Ứng dụng có thể mở các trang web (ví dụ: tài liệu pháp lý hoặc quản lý đăng ký) trong trình duyệt của bạn hoặc chế độ xem trình duyệt trong ứng dụng. Những trang web đó được điều hành bởi các bên thứ ba và có các biện pháp bảo vệ quyền riêng tư của riêng họ."
+    },
+    {
+      "type": "h2",
+      "text": "4. Cơ sở pháp lý (Người dùng EEA / Vương quốc Anh)"
+    },
+    {
+      "type": "p",
+      "html": "Trong trường hợp luật hiện hành yêu cầu cơ sở pháp lý: chúng tôi xử lý dữ liệu liên quan đến giao dịch mua hàng để <strong>thực hiện hợp đồng của chúng tôi</strong> với bạn (cung cấp các tính năng cao cấp); chúng tôi xử lý dữ liệu ứng dụng cục bộ dựa trên <strong>việc sử dụng Ứng dụng của bạn</strong> và, khi có liên quan, <strong>lợi ích hợp pháp</strong> trong việc vận hành và bảo mật Ứng dụng, cân bằng với các quyền của bạn."
+    },
+    {
+      "type": "h2",
+      "text": "5. Giữ lại"
+    },
+    {
+      "type": "p",
+      "html": "Dữ liệu cục bộ vẫn còn cho đến khi bạn xóa hoặc gỡ cài đặt Ứng dụng (hoặc xóa bộ nhớ trình duyệt cho các bản dựng web). Các hồ sơ do Apple, Google hoặc RevenueCat nắm giữ sẽ được lưu giữ như mô tả trong chính sách của họ."
+    },
+    {
+      "type": "h2",
+      "text": "6. Trẻ em"
+    },
+    {
+      "type": "p",
+      "html": "Ứng dụng không hướng đến trẻ em dưới độ tuổi mà khu vực của bạn yêu cầu phải đồng ý xử lý dữ liệu mà không có sự cho phép của cha mẹ. Nếu bạn tin rằng chúng tôi đã thu thập thông tin cá nhân từ một đứa trẻ một cách không thích hợp, hãy liên hệ với chúng tôi và chúng tôi sẽ thực hiện các bước hợp lý để giải quyết vấn đề đó."
+    },
+    {
+      "type": "h2",
+      "text": "7. Quyền của bạn"
+    },
+    {
+      "type": "p",
+      "html": "Tùy thuộc vào vị trí của bạn, bạn có thể có quyền truy cập, sửa, xóa hoặc hạn chế một số hoạt động xử lý nhất định hoặc phản đối hoặc chuyển dữ liệu. Liên hệ với chúng tôi theo email trên. Bạn cũng có thể khiếu nại với cơ quan bảo vệ dữ liệu địa phương. Đối với dữ liệu mua và nhận, Apple hoặc Google có thể là người liên hệ chính theo chính sách của họ."
+    },
+    {
+      "type": "h2",
+      "text": "8. Chuyển khoản quốc tế"
+    },
+    {
+      "type": "p",
+      "html": "Các nhà cung cấp dịch vụ của chúng tôi có thể xử lý dữ liệu ở các quốc gia khác ngoài quốc gia của bạn. Khi cần thiết, họ sử dụng các biện pháp bảo vệ thích hợp (chẳng hạn như các điều khoản hợp đồng tiêu chuẩn)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Thay đổi"
+    },
+    {
+      "type": "p",
+      "html": "Thỉnh thoảng chúng tôi có thể cập nhật Chính sách này. Chúng tôi sẽ đăng phiên bản mới trên trang này và cập nhật ngày “Cập nhật lần cuối”. Việc tiếp tục sử dụng Ứng dụng sau khi thay đổi có nghĩa là bạn chấp nhận Chính sách đã cập nhật, trong phạm vi được pháp luật cho phép."
+    },
+    {
+      "type": "h2",
+      "text": "10. Liên hệ"
+    },
+    {
+      "type": "p",
+      "html": "Câu hỏi: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+export default {
+  "navLabel": "Langue",
+  "navHome": "Maison",
+  "navPrivacy": "politique de confidentialité",
+  "navTerms": "Conditions d'utilisation",
+  "footerPrivacy": "politique de confidentialité",
+  "footerTerms": "Conditions d'utilisation",
+  "footerAll": "Tous les documents",
+  "footerNavLabel": "Documents associés",
+  "indexTitle": "Pairloom— Documents juridiques",
+  "indexHeading": "Documents juridiques",
+  "indexIntro": "Politique de confidentialité et conditions d'utilisation pourPairloom(jeu de cartes mémoire). Opérateur:Sergey Kosilov(développeur indépendant).",
+  "indexDocsHeading": "Documents",
+  "indexPrivacyLink": "politique de confidentialité",
+  "indexTermsLink": "Conditions d'utilisation",
+  "indexContactLabel": "Contact:"
+};

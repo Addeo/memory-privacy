@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "Datenschutzrichtlinie -Pairloom",
+  "h1": "Datenschutzrichtlinie",
+  "metaHtml": "<strong>Pairloom</strong> (Gedächtnisspiel) · App-ID <code>game.memory.cards</code> · Zuletzt aktualisiert: <time datetime=\"2026-04-04\">4. April 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Diese Datenschutzrichtlinie beschreibt, wie<strong>Sergey Kosilov</strong>(Indie-Entwickler; „wir“, „uns“) verarbeitet Informationen, wenn Sie die mobile Anwendung nutzen<strong>Pairloom</strong>(die „App“), auch wenn Sie sie in einem Webbrowser ausführen, in dem wir diesen Build zur Verfügung stellen. Es deckt auch optionale In-App-Käufe ab."
+    },
+    {
+      "type": "h2",
+      "text": "1. Wer wir sind"
+    },
+    {
+      "type": "p",
+      "html": "Datenverantwortlicher:<strong>Sergey Kosilov</strong>(Indie-Entwickler)<br />Kontakt:<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Zusammenfassung"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Das tun wir<strong>nicht</strong>erfordern, dass Sie ein Konto in der App erstellen.",
+        "Das tun wir<strong>nicht</strong>Betreiben Sie unsere eigenen Server, um Ihren Spielfortschritt zu synchronisieren. Spieldaten werden gespeichert<strong>auf Ihrem Gerät</strong>.",
+        "Bilder, die Sie für benutzerdefinierte Kartenvorderseiten auswählen, bleiben erhalten<strong>Lokaler App-Speicher</strong>auf Ihrem Gerät. Wir laden sie für diese Funktion nicht in unsere Infrastruktur hoch.",
+        "Wenn Sie ein Abonnement oder eine lebenslange Freischaltung kaufen oder wiederherstellen,<strong>Apple</strong>, <strong>Google</strong>, und unser Abrechnungspartner<strong>RevenueCat</strong>verarbeiten zahlungsbezogene Daten gemäß ihren Richtlinien.",
+        "Die in dieser Richtlinie beschriebene App-Version tut dies<strong>nicht</strong>Integrieren Sie Analyse- oder Absturzberichts-SDKs von Drittanbietern. Wenn wir sie später hinzufügen, werden wir diese Richtlinie aktualisieren und bei Bedarf die Zustimmung einholen."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Informationen, die wir verarbeiten"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Lokale App-Daten (auf Ihrem Gerät)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Die App speichert Präferenzen und spielbezogene Informationen lokal im Speicher der Plattform (z. B<strong>Capacitor Preferences</strong>auf iOS/Android und<strong>Lokaler Browserspeicher</strong>sofern zutreffend). Dies kann je nachdem, wie Sie die App nutzen, Folgendes umfassen:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Spiel- und UI-Einstellungen (z. B. Spielbrettgröße, Kartenthemen, Typografie und zugehörige Optionen).",
+        "Sprach-/Gebietsschemapräferenz.",
+        "Bevorzugen Sie ein helles oder dunkles Aussehen.",
+        "Fortschritt und Statistiken (z. B. Questfortschritt, allgemeiner Fortschritt, Bestzeiten oder Punkte, wo die App sie aufzeichnet).",
+        "Von Ihnen verwendete Gameplay-Helfer (z. B. Hinweis-Nutzungszähler oder Streak-Daten, falls zutreffend).",
+        "Timing-Metadaten, die für In-App-Belohnungen oder Sitzungen verwendet werden (z. B. Zeitstempel der letzten Sitzung), wenn diese Funktionen aktiviert sind.",
+        "Optionale barrierefreie Textüberschreibungen, die Sie in der App konfigurieren.",
+        "A<strong>lokaler Schalter</strong>der abgeschlossenen Spiele, die Premium-Funktionen genutzt haben, während Sie kein Abonnement hatten, werden nur dazu verwendet, das begrenzte kostenlose Ausprobieren von Premium-Optionen durch die App durchzusetzen."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Diese Daten verbleiben auf Ihrem Gerät, es sei denn, Sie löschen App-Daten, löschen Site-Daten (Browser) oder deinstallieren die App. Wir können nicht aus der Ferne darauf zugreifen, da wir kein an Ihre Installation gebundenes Gameplay-Backend ausführen."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Fotos und Medien (Premium-Funktion)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Wenn Sie benutzerdefinierte Bilder auf Karten verwenden, greift die App auf Ihre Fotobibliothek oder Kamera zu<strong>erst, wenn Sie initiieren</strong>dieser Fluss. Ausgewählte Bilder werden in gespeichert<strong>Lokaler App-Speicher</strong>(oder, in einigen Browser-Builds, als In-Browser-Daten wie Daten-URLs), damit sie auf Karten angezeigt werden können. Wir führen im Rahmen der App keinen Cloud-Upload Ihrer benutzerdefinierten Bilder durch."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Käufe und Abonnements</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Einkäufe werden von abgewickelt<strong>Apple App Store</strong>oder<strong>GoogleSpielen</strong>. Wir verwenden<strong>RevenueCat</strong>um Berechtigungen und Abonnementstatus innerhalb der App zu validieren.RevenueCatkann Kennungen und Kaufereignisse verarbeiten, die für die Bereitstellung dieses Dienstes erforderlich sind.AppleUndGooglekann Einkäufe mit Ihrem Shop-Konto verknüpfen."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "AppleDatenschutzrichtlinie:<a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "GoogleDatenschutzrichtlinie:<a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">Policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Gerätefunktionen</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Die App kann Gerätefunktionen nutzen, z<strong>Haptik</strong>, <strong>Statusleiste</strong>Styling, oder<strong>Tastatur</strong>Verhalten. Diese Funktionen werden lokal zur Verbesserung des Erlebnisses verwendet und werden von uns nicht dazu verwendet, ein Profil von Ihnen zu erstellen."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Analysen und Absturzberichte</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Die Codebasis und Abhängigkeiten für die App, wie sie im Rahmen dieser Richtlinie veröffentlicht werden, gelten<strong>nicht</strong>umfassen integrierte Analyse- oder Absturzmeldedienste von Drittanbietern. Möglicherweise wird die Diagnoseprotokollierung angezeigt<strong>Nur Entwicklungs-Builds</strong>und ist nicht für Produktionsendbenutzer gedacht. Wenn wir später Analysen oder Absturzberichte hinzufügen, werden wir diese Richtlinie aktualisieren und Sie, sofern gesetzlich vorgeschrieben, um Ihre Zustimmung bitten."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Links und externe Inhalte</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Die App kann Webseiten (z. B. Rechtsdokumente oder Abonnementverwaltung) in Ihrem Browser oder einer In-App-Browseransicht öffnen. Diese Websites werden von Dritten betrieben und verfügen über eigene Datenschutzpraktiken."
+    },
+    {
+      "type": "h2",
+      "text": "4. Rechtsgrundlagen (EWR-/UK-Nutzer)"
+    },
+    {
+      "type": "p",
+      "html": "Soweit geltendes Recht eine Rechtsgrundlage erfordert: Wir verarbeiten kaufbezogene Daten zu<strong>unseren Vertrag erfüllen</strong>mit Ihnen (Bereitstellung von Premium-Funktionen); Wir verarbeiten lokale App-Daten basierend auf<strong>Ihre Nutzung der App</strong>und, soweit relevant,<strong>berechtigte Interessen</strong>beim Betrieb und der Sicherung der App, abgewogen gegen Ihre Rechte."
+    },
+    {
+      "type": "h2",
+      "text": "5. Aufbewahrung"
+    },
+    {
+      "type": "p",
+      "html": "Lokale Daten bleiben erhalten, bis Sie sie entfernen oder die App deinstallieren (oder den Browserspeicher für Web-Builds leeren). Aufzeichnungen gehalten vonApple, Google, oderRevenueCatwerden wie in ihren Richtlinien beschrieben aufbewahrt."
+    },
+    {
+      "type": "h2",
+      "text": "6. Kinder"
+    },
+    {
+      "type": "p",
+      "html": "Die App richtet sich nicht an Kinder unter dem in Ihrer Region erforderlichen Alter, um der Datenverarbeitung ohne Zustimmung der Eltern zuzustimmen. Wenn Sie der Meinung sind, dass wir personenbezogene Daten eines Kindes unangemessen erfasst haben, kontaktieren Sie uns und wir werden angemessene Schritte unternehmen, um das Problem zu beheben."
+    },
+    {
+      "type": "h2",
+      "text": "7. Ihre Rechte"
+    },
+    {
+      "type": "p",
+      "html": "Abhängig von Ihrem Standort haben Sie möglicherweise das Recht, auf bestimmte Verarbeitungen zuzugreifen, sie zu korrigieren, zu löschen oder einzuschränken oder Daten zu widersprechen oder zu übertragen. Kontaktieren Sie uns unter der oben genannten E-Mail. Sie können auch eine Beschwerde bei Ihrer örtlichen Datenschutzbehörde einreichen. Für Kauf- und Quittungsdaten,AppleoderGooglekann gemäß ihren Richtlinien der Hauptkontakt sein."
+    },
+    {
+      "type": "h2",
+      "text": "8. Internationale Überweisungen"
+    },
+    {
+      "type": "p",
+      "html": "Unsere Dienstleister können Daten in anderen Ländern als Ihrem verarbeiten. Bei Bedarf nutzen sie geeignete Schutzmaßnahmen (z. B. Standardvertragsklauseln)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Änderungen"
+    },
+    {
+      "type": "p",
+      "html": "Wir können diese Richtlinie von Zeit zu Zeit aktualisieren. Wir werden die neue Version auf dieser Seite veröffentlichen und das Datum der „letzten Aktualisierung“ aktualisieren. Die fortgesetzte Nutzung der App nach Änderungen bedeutet, dass Sie die aktualisierte Richtlinie akzeptieren, soweit gesetzlich zulässig."
+    },
+    {
+      "type": "h2",
+      "text": "10. Kontakt"
+    },
+    {
+      "type": "p",
+      "html": "Fragen:<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

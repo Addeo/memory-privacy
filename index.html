@@ -5,34 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pairloom — Legal</title>
   <link rel="stylesheet" href="assets/site.css" />
-  <link rel="alternate" hreflang="en" href="index.html" />
-  <link rel="alternate" hreflang="ru" href="index-ru.html" />
 </head>
 <body>
-  <header class="site-header">
-    <p class="site-brand"><strong>Pairloom</strong> · <code>game.memory.cards</code></p>
-    <nav aria-label="Language">
-      <ul class="lang-nav">
-        <li><a href="index.html" lang="en" aria-current="page">English</a></li>
-        <li><a href="index-ru.html" lang="ru">Русский</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <h1>Legal documents</h1>
-  <p class="index-intro muted">
-    Privacy Policy and Terms of Use for <strong>Pairloom</strong> (memory card game).
-    Operator: <strong>Sergey Kosilov</strong> (indie developer).
-  </p>
-
-  <h2>Documents</h2>
-  <ul class="doc-list">
-    <li><a href="privacy.html">Privacy Policy</a></li>
-    <li><a href="terms.html">Terms of Use</a></li>
-  </ul>
-
-  <p class="meta">
-    Contact: <a href="mailto:supp0rt.serg@yandex.com">supp0rt.serg@yandex.com</a>
-  </p>
+  <div id="legal-root">
+    <p class="muted">Loading…</p>
+  </div>
+  <script type="module">
+    import { initLegalPage } from './assets/legal-page.js';
+    initLegalPage('index');
+  </script>
 </body>
 </html>
