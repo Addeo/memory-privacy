@@ -17,7 +17,8 @@ Static **Privacy Policy** and **Terms of Use** for **Pairloom** (`game.memory.ca
 
 1. Create a **public** repository (e.g. `memory-privacy` or `pairloom-legal`).
 2. Push this folder to the repo root.
-3. **Settings → Pages → Build and deployment → Source**: branch `main`, folder **/ (root)**.
+3. **Settings → Pages → Build and deployment → Source**: branch **`gh-pages`**, folder **/ (root)**.
+   (Static files are published from the `gh-pages` branch; `main` holds the same content for development.)
 4. After deploy, URLs look like:
    - `https://<username>.github.io/<repo>/privacy.html`
    - `https://<username>.github.io/<repo>/privacy-ru.html`
