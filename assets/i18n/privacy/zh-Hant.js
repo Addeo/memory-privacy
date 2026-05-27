@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "隱私權政策 -Pairloom",
+  "h1": "隱私權政策",
+  "metaHtml": "<strong>Pairloom</strong> (記憶卡牌遊戲) · 應用程式 ID <code>game.memory.cards</code> · 更新日期: <time datetime=\"2026-04-04\">2026年4月4日</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "本隱私權政策描述如何<strong>Sergey Kosilov</strong>（獨立開發者；「我們」）在您使用行動應用程式時處理訊息<strong>Pairloom</strong>（“應用程式”），包括當您在網頁瀏覽器中執行它時，我們會提供該版本。它還涵蓋可選的應用程式內購買。"
+    },
+    {
+      "type": "h2",
+      "text": "1. 我們是誰"
+    },
+    {
+      "type": "p",
+      "html": "數據控制者：<strong>Sergey Kosilov</strong>（獨立開發者）<br />接觸：<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. 總結"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "我們做<strong>不是</strong>要求您在應用程式中建立帳戶。",
+        "我們做<strong>不是</strong>操作我們自己的伺服器來同步您的遊戲進度；遊戲資料已儲存<strong>在您的裝置上</strong>。",
+        "您為自訂卡面所選的影像將保留在<strong>本地應用程式存儲</strong>在您的裝置上。我們不會將它們上傳到我們的基礎設施以實現該功能。",
+        "如果您購買或恢復訂閱或終身解鎖，<strong>Apple</strong>, <strong>Google</strong>，以及我們的計費夥伴<strong>RevenueCat</strong>根據其政策處理支付相關數據。",
+        "本政策所描述的應用程式版本不<strong>不是</strong>嵌入第三方分析或崩潰報告 SDK。如果我們稍後再添加它們，我們將更新本政策並在需要時獲得同意。"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. 我們處理的訊息"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 本機應用程式資料（在您的裝置上）</strong>"
+    },
+    {
+      "type": "p",
+      "html": "該應用程式使用平台的儲存在本地儲存偏好和遊戲相關資訊（例如<strong>Capacitor Preferences</strong>在 iOS/Android 和<strong>瀏覽器本地存儲</strong>適用時）。根據您使用應用程式的方式，這可能包括："
+    },
+    {
+      "type": "ul",
+      "items": [
+        "遊戲和 UI 設定（例如棋盤尺寸、卡片主題、排版和相關選項）。",
+        "語言/區域設定偏好。",
+        "淺色或深色外觀偏好。",
+        "進度和統計資料（例如任務進度、總體進度、應用程式記錄的最佳時間或分數）。",
+        "您使用的遊戲幫助程式（例如提示使用計數器或連勝數據，如果適用）。",
+        "用於應用內獎勵或會話的時間元資料（例如上次會話時間戳記）（如果啟用了這些功能）。",
+        "可選的與輔助功能相關的文字會覆蓋您在應用程式中配置的內容。",
+        "一個<strong>當地櫃檯</strong>在您未訂閱時使用高級功能的已完成遊戲的數量，僅用於強制執行應用程式對高級選項的有限免費試用。"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "除非您清除應用程式資料、清除網站資料（瀏覽器）或卸載應用程序，否則此資料將保留在您的裝置上。我們無法遠端存取它，因為我們不運行與您的安裝相關的遊戲後端。"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 照片與媒體（進階功能）</strong>"
+    },
+    {
+      "type": "p",
+      "html": "如果您在卡片上使用自訂圖片，該應用程式會存取您的照片庫或相機<strong>單一當您發起時</strong>那個流動。選定的影像儲存在<strong>本地應用程式存儲</strong>（或者，在某些瀏覽器版本中，作為瀏覽器內數據，例如數據 URL），以便它們可以顯示在卡片上。我們不會將您的自訂圖像作為應用程式的一部分進行雲端上傳。"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 購買和訂閱</strong>"
+    },
+    {
+      "type": "p",
+      "html": "購買的處理由<strong>Apple App Store</strong>或者<strong>Google玩</strong>。我們使用<strong>RevenueCat</strong>驗證應用程式內的權利和訂閱狀態。RevenueCat可以處理提供該服務所需的識別碼和購買事件。Apple和Google可能會將購買與您的商店帳戶關聯起來。"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apple隱私權政策：<a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "Google隱私權政策：<a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">Revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 特點設備</strong>"
+    },
+    {
+      "type": "p",
+      "html": "該應用程式可能會使用設備功能，例如<strong>前鋒</strong>, <strong>狀態列</strong>造型，或<strong>鍵盤</strong>行為。這些功能在本地使用以改善體驗，我們不會使用這些功能來建立您的個人資料。"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 分析和崩潰報告</strong>"
+    },
+    {
+      "type": "p",
+      "html": "根據本政策發布的應用程式的程式碼庫和相依性不會<strong>不是</strong>包括整合的第三方分析或崩潰報告服務。診斷日誌記錄可能出現在<strong>開發僅建置</strong>並且不適用於生產最終用戶。如果我們稍後新增分析或崩潰報告，我們將更新本政策，並在法律要求的情況下徵求您的同意。"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 連結和外部內容</strong>"
+    },
+    {
+      "type": "p",
+      "html": "該應用程式可能會在您的瀏覽器或應用程式內瀏覽器檢視中開啟網頁（例如法律文件或訂閱管理）。這些網站由第三方經營，並有自己的隱私慣例。"
+    },
+    {
+      "type": "h2",
+      "text": "4. 法律依據（歐洲經濟區/英國使用者）"
+    },
+    {
+      "type": "p",
+      "html": "如果適用法律需要法律依據：我們處理與購買相關的資料以<strong>履行我們的承諾</strong>與您一起（提供高級功能）；我們處理本機應用程式資料是基於<strong>您對應用程式的使用</strong>並且，在相關的情況下，<strong>合法利益</strong>在操作和保護應用程式時，平衡您的權利。"
+    },
+    {
+      "type": "h2",
+      "text": "5. 保留"
+    },
+    {
+      "type": "p",
+      "html": "本機資料將保留，直到您刪除它或卸載應用程式（或清除網路建置的瀏覽器儲存空間）。記錄持有者Apple, Google， 或者RevenueCat按照其政策中的描述保留。"
+    },
+    {
+      "type": "h2",
+      "text": "6. 兒童"
+    },
+    {
+      "type": "p",
+      "html": "該應用程式不針對您所在地區要求同意未經父母許可進行資料處理的年齡以下的兒童。如果您認為我們不適當地收集了兒童的個人訊息，請聯絡我們，我們將採取合理的措施來解決該問題。"
+    },
+    {
+      "type": "h2",
+      "text": "7. 您的權利"
+    },
+    {
+      "type": "p",
+      "html": "根據您所在的位置，您可能有權存取、更正、刪除或限制某些處理，或反對或移植資料。透過上面的電子郵件與我們聯絡。您也可以向當地的資料保護機構提出投訴。對於購買和收貨數據，Apple或者Google可能是其政策下的主要聯絡人。"
+    },
+    {
+      "type": "h2",
+      "text": "8. 國際轉帳"
+    },
+    {
+      "type": "p",
+      "html": "我們的服務提供者可能會在您所在國家/地區以外的國家/地區處理資料。如果需要，他們會使用適當的保障措施（例如標準合約條款）。"
+    },
+    {
+      "type": "h2",
+      "text": "9. 變化"
+    },
+    {
+      "type": "p",
+      "html": "我們可能會不時更新本政策。我們將在此頁面上發布新版本並更新“上次更新”日期。更改後繼續使用該應用程式意味著您在法律允許的範圍內接受更新的政策。"
+    },
+    {
+      "type": "h2",
+      "text": "10. 聯絡方式"
+    },
+    {
+      "type": "p",
+      "html": "問題：<a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

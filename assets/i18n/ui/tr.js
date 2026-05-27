@@ -1,0 +1,17 @@
+export default {
+  "navLabel": "Dil",
+  "navHome": "Ev",
+  "navPrivacy": "Gizlilik Politikası",
+  "navTerms": "Kullanım Koşulları",
+  "footerPrivacy": "Gizlilik Politikası",
+  "footerTerms": "Kullanım Koşulları",
+  "footerAll": "Tüm belgeler",
+  "footerNavLabel": "İlgili belgeler",
+  "indexTitle": "Pairloom— Yasal belgeler",
+  "indexHeading": "Yasal belgeler",
+  "indexIntro": "Gizlilik Politikası ve Kullanım KoşullarıPairloom(hafıza kartı oyunu). Operatör:Sergey Kosilov(bağımsız geliştirici).",
+  "indexDocsHeading": "Belgeler",
+  "indexPrivacyLink": "Gizlilik Politikası",
+  "indexTermsLink": "Kullanım Koşulları",
+  "indexContactLabel": "Temas etmek:"
+};

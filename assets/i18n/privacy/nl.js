@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "Privacybeleid — Pairloom",
+  "h1": "Privacybeleid",
+  "metaHtml": "<strong>Pairloom</strong> (geheugenspel) · App-ID <code>game.memory.cards</code> · Laatst bijgewerkt: <time datetime=\"2026-04-04\">4 april 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Dit privacybeleid beschrijft hoe <strong>Sergey Kosilov</strong> (indie-ontwikkelaar; “wij”, “ons”) omgaat met informatie wanneer u de mobiele applicatie <strong>Pairloom</strong> (de “App”) gebruikt, inclusief wanneer u deze in een webbrowser uitvoert waarin we die build beschikbaar stellen. Het omvat ook optionele in-app-aankopen."
+    },
+    {
+      "type": "h2",
+      "text": "1. Wie we zijn"
+    },
+    {
+      "type": "p",
+      "html": "Gegevensbeheerder: <strong>Sergey Kosilov</strong> (indie-ontwikkelaar)<br />Contact: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Samenvatting"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "We vereisen <strong>niet</strong> dat u een account aanmaakt in de app.",
+        "We gebruiken <strong>niet</strong> onze eigen servers om je voortgang in het spel te synchroniseren; gamegegevens worden <strong>op uw apparaat</strong> opgeslagen.",
+        "Afbeeldingen die u kiest voor aangepaste kaartgezichten worden bewaard in <strong>lokale app-opslag</strong> op uw apparaat. Voor die functie uploaden we ze niet naar onze infrastructuur.",
+        "Als u een abonnement of levenslange ontgrendeling koopt of herstelt, verwerken <strong>Apple</strong>, <strong>Google</strong> en onze factureringspartner <strong>RevenueCat</strong> betalingsgerelateerde gegevens volgens hun beleid.",
+        "De app-versie die in dit beleid wordt beschreven, bevat <strong>geen</strong> SDK's voor analyse of crashrapportage van derden. Als we ze later toevoegen, zullen we dit beleid bijwerken en waar nodig toestemming verkrijgen."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Gegevens die wij verwerken"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Lokale app-gegevens (op uw apparaat)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "De app slaat voorkeuren en gamegerelateerde informatie lokaal op met behulp van de opslag van het platform (bijvoorbeeld <strong>Capacitor Preferences</strong> op iOS/Android en <strong>lokale opslag in de browser</strong>, indien van toepassing). Dit kan, afhankelijk van hoe u de App gebruikt, het volgende omvatten:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Spel- en UI-instellingen (bijvoorbeeld bordgrootte, kaartthema's, typografie en gerelateerde opties).",
+        "Voorkeur voor taal/landinstelling.",
+        "Voorkeur voor licht of donker uiterlijk.",
+        "Voortgang en statistieken (bijvoorbeeld voortgang van missies, algemene voortgang, beste tijden of scores waar de app deze registreert).",
+        "Gameplay-hulpmiddelen die je gebruikt (bijvoorbeeld tellers voor hintgebruik of streak-gegevens, indien van toepassing).",
+        "Timingmetagegevens die worden gebruikt voor in-app-beloningen of sessies (bijvoorbeeld tijdstempels van de laatste sessie), als deze functies zijn ingeschakeld.",
+        "Optionele toegankelijkheidsgerelateerde tekstoverschrijvingen die u in de app configureert.",
+        "Een <strong>lokale teller</strong> van voltooide games die premiumfuncties gebruikten terwijl u niet geabonneerd was, alleen gebruikt om de beperkte gratis proefperiode van premiumopties van de app af te dwingen."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Deze gegevens blijven op uw apparaat staan, tenzij u app-gegevens, sitegegevens (browser) wist of de app verwijdert. We hebben er op afstand geen toegang toe omdat we geen gameplay-backend gebruiken die aan uw installatie is gekoppeld."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Foto's en media (premiumfunctie)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Als u aangepaste afbeeldingen op kaarten gebruikt, heeft de app <strong>alleen toegang tot uw fotobibliotheek of camera wanneer u</strong> die stroom start. Geselecteerde afbeeldingen worden opgeslagen in de <strong>lokale app-opslag</strong> (of, in sommige browserversies, als gegevens in de browser, zoals gegevens-URL's), zodat ze op kaarten kunnen worden weergegeven. We voeren geen cloudupload van uw aangepaste afbeeldingen uit als onderdeel van de app."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Aankopen en abonnementen</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Aankopen worden verwerkt door <strong>Apple App Store</strong> of <strong>Google Play</strong>. We gebruiken <strong>RevenueCat</strong> om de rechten en abonnementsstatus in de app te valideren. RevenueCat kan identificatiegegevens en aankoopgebeurtenissen verwerken die nodig zijn om die dienst te verlenen. Apple en Google kunnen aankopen koppelen aan uw winkelaccount."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apple Privacybeleid: <a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "Google Privacybeleid: <a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Apparaatfuncties</strong>"
+    },
+    {
+      "type": "p",
+      "html": "De App kan gebruik maken van apparaatmogelijkheden zoals <strong>haptiek</strong>, <strong>statusbalk</strong> stijl of <strong>toetsenbord</strong> gedrag. Deze functies worden lokaal gebruikt om de ervaring te verbeteren en worden door ons niet gebruikt om een ​​profiel van u op te bouwen."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Analytics en crashrapportage</strong>"
+    },
+    {
+      "type": "p",
+      "html": "De codebase en afhankelijkheden voor de App, zoals vrijgegeven onder dit Beleid, omvatten <strong>geen</strong> geïntegreerde analyse- of crashrapportageservices van derden. Diagnostische logboekregistratie kan voorkomen in <strong>alleen ontwikkelingsbuilds</strong> en is niet bedoeld voor productie-eindgebruikers. Als we later analyses of crashrapportage toevoegen, zullen we dit beleid bijwerken en, indien vereist door de wet, om uw toestemming vragen."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Links en externe inhoud</strong>"
+    },
+    {
+      "type": "p",
+      "html": "De App kan webpagina's (bijvoorbeeld juridische documenten of abonnementsbeheer) openen in uw browser of in een in-app browserweergave. Deze sites worden beheerd door derden en hebben hun eigen privacypraktijken."
+    },
+    {
+      "type": "h2",
+      "text": "4. Rechtsgrondslagen (gebruikers uit de EER/VK)"
+    },
+    {
+      "type": "p",
+      "html": "Waar de toepasselijke wetgeving een wettelijke basis vereist: verwerken wij aankoopgerelateerde gegevens om <strong>ons contract uit te voeren</strong> met u (waarbij premiumfuncties worden aangeboden); wij verwerken lokale app-gegevens op basis van <strong>uw gebruik van de app</strong> en, waar relevant, <strong>legitieme belangen</strong> bij het exploiteren en beveiligen van de app, afgewogen tegen uw rechten."
+    },
+    {
+      "type": "h2",
+      "text": "5. Bewaring"
+    },
+    {
+      "type": "p",
+      "html": "Lokale gegevens blijven bewaard totdat u deze verwijdert of de app verwijdert (of de browseropslag wist voor webbuilds). Gegevens die in het bezit zijn van Apple, Google of RevenueCat worden bewaard zoals beschreven in hun beleid."
+    },
+    {
+      "type": "h2",
+      "text": "6. Kinderen"
+    },
+    {
+      "type": "p",
+      "html": "De App is niet gericht op kinderen die jonger zijn dan de leeftijd die in uw regio vereist is om toestemming te geven voor gegevensverwerking zonder ouderlijke toestemming. Als u van mening bent dat wij op ongepaste wijze persoonlijke gegevens van een kind hebben verzameld, neem dan contact met ons op en wij zullen redelijke stappen ondernemen om dit aan te pakken."
+    },
+    {
+      "type": "h2",
+      "text": "7. Uw rechten"
+    },
+    {
+      "type": "p",
+      "html": "Afhankelijk van uw locatie heeft u mogelijk het recht om bepaalde verwerkingen in te zien, te corrigeren, te verwijderen of te beperken, of om bezwaar te maken of gegevens over te dragen. Neem contact met ons op via het bovenstaande e-mailadres. U kunt ook een klacht indienen bij uw lokale gegevensbeschermingsautoriteit. Voor aankoop- en ontvangstgegevens kan Apple of Google het primaire contact zijn volgens hun beleid."
+    },
+    {
+      "type": "h2",
+      "text": "8. Internationale overschrijvingen"
+    },
+    {
+      "type": "p",
+      "html": "Onze dienstverleners kunnen gegevens verwerken in andere landen dan het uwe. Waar nodig maken zij gebruik van passende waarborgen (zoals standaardcontractbepalingen)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Wijzigingen"
+    },
+    {
+      "type": "p",
+      "html": "We kunnen dit beleid van tijd tot tijd bijwerken. We zullen de nieuwe versie op deze pagina plaatsen en de datum “Laatst bijgewerkt” bijwerken. Voortgezet gebruik van de App na wijzigingen betekent dat u het bijgewerkte Beleid accepteert, voor zover toegestaan ​​door de wet."
+    },
+    {
+      "type": "h2",
+      "text": "10. Contactpersoon"
+    },
+    {
+      "type": "p",
+      "html": "Vragen: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

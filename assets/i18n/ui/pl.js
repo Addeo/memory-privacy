@@ -1,0 +1,17 @@
+export default {
+  "navLabel": "Język",
+  "navHome": "Dom",
+  "navPrivacy": "Polityka prywatności",
+  "navTerms": "Warunki użytkowania",
+  "footerPrivacy": "Polityka prywatności",
+  "footerTerms": "Warunki użytkowania",
+  "footerAll": "Wszystkie dokumenty",
+  "footerNavLabel": "Powiązane dokumenty",
+  "indexTitle": "Pairloom — Dokumenty prawne",
+  "indexHeading": "Dokumenty prawne",
+  "indexIntro": "Polityka prywatności i Warunki korzystania z <strong>Pairloom</strong> (gry karcianej pamięci). Operator: <strong>Sergey Kosilov</strong> (programista niezależny).",
+  "indexDocsHeading": "Dokumenty",
+  "indexPrivacyLink": "Polityka prywatności",
+  "indexTermsLink": "Warunki użytkowania",
+  "indexContactLabel": "Kontakt:"
+};

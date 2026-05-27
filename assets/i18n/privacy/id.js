@@ -1,0 +1,166 @@
+export default {
+  "pageTitle": "Kebijakan Privasi — Pairloom",
+  "h1": "Kebijakan Privasi",
+  "metaHtml": "<strong>Pairloom</strong> (permainan memori) · ID aplikasi <code>game.memory.cards</code> · Terakhir diperbarui: <time datetime=\"2026-04-04\">4 April 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Kebijakan Privasi ini menjelaskan cara <strong>Sergey Kosilov</strong> (pengembang indie; “kami”, “kita”) menangani informasi saat Anda menggunakan aplikasi seluler <strong>Pairloom</strong> (“Aplikasi”), termasuk saat Anda menjalankannya di browser web tempat kami menyediakan build tersebut. Ini juga mencakup pembelian dalam aplikasi opsional."
+    },
+    {
+      "type": "h2",
+      "text": "1. Siapa kita"
+    },
+    {
+      "type": "p",
+      "html": "Pengontrol data: <strong>Sergey Kosilov</strong> (pengembang indie)<br />Kontak: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    },
+    {
+      "type": "h2",
+      "text": "2. Ringkasan"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kami <strong>tidak</strong> mengharuskan Anda membuat akun di Aplikasi.",
+        "Kami <strong>tidak</strong> mengoperasikan server kami sendiri untuk menyinkronkan kemajuan permainan Anda; data game disimpan <strong>di perangkat Anda</strong>.",
+        "Gambar yang Anda pilih untuk tampilan kartu khusus disimpan di <strong>penyimpanan aplikasi lokal</strong> di perangkat Anda. Kami tidak mengunggahnya ke infrastruktur kami untuk fitur tersebut.",
+        "Jika Anda membeli atau memulihkan langganan atau buka kunci seumur hidup, <strong>Apple</strong>, <strong>Google</strong>, dan mitra penagihan kami <strong>RevenueCat</strong> memproses data terkait pembayaran sesuai dengan kebijakan mereka.",
+        "Versi Aplikasi yang dijelaskan dalam Kebijakan ini <strong>tidak</strong> menyematkan analisis pihak ketiga atau SDK pelaporan kerusakan. Jika kami menambahkannya nanti, kami akan memperbarui Kebijakan ini dan mendapatkan persetujuan jika diperlukan."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Informasi yang kami proses"
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.1 Data aplikasi lokal (di perangkat Anda)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Aplikasi menyimpan preferensi dan informasi terkait game secara lokal menggunakan penyimpanan platform (misalnya <strong>Capacitor Preferences</strong> di iOS/Android dan <strong>penyimpanan lokal browser</strong> jika berlaku). Hal ini mungkin termasuk, tergantung pada cara Anda menggunakan Aplikasi:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Pengaturan permainan dan UI (misalnya ukuran papan, tema kartu, tipografi, dan opsi terkait).",
+        "Preferensi bahasa/lokal.",
+        "Preferensi penampilan terang atau gelap.",
+        "Kemajuan dan statistik (misalnya kemajuan misi, kemajuan umum, waktu atau skor terbaik di mana Aplikasi mencatatnya).",
+        "Pembantu gameplay yang Anda gunakan (misalnya penghitung penggunaan petunjuk atau data coretan, jika ada).",
+        "Metadata waktu yang digunakan untuk reward atau sesi dalam aplikasi (misalnya stempel waktu sesi terakhir), jika fitur tersebut diaktifkan.",
+        "Teks terkait aksesibilitas opsional menggantikan yang Anda konfigurasikan di Aplikasi.",
+        "<strong>Penghitung lokal</strong> dari game yang sudah selesai yang menggunakan fitur premium saat Anda tidak berlangganan, hanya digunakan untuk menerapkan uji coba gratis terbatas pada opsi premium pada Aplikasi."
+      ]
+    },
+    {
+      "type": "p",
+      "html": "Data ini tetap ada di perangkat Anda kecuali Anda menghapus data aplikasi, menghapus data situs (browser), atau menghapus instalan Aplikasi. Kami tidak dapat mengaksesnya dari jarak jauh karena kami tidak menjalankan backend gameplay yang terkait dengan instalasi Anda."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.2 Foto dan media (fitur premium)</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Jika Anda menggunakan gambar khusus pada kartu, Aplikasi akan mengakses perpustakaan foto atau kamera Anda <strong>hanya saat Anda memulai</strong> alur tersebut. Gambar yang dipilih disimpan di <strong>penyimpanan aplikasi lokal</strong> (atau, di beberapa versi browser, sebagai data dalam browser seperti URL data) sehingga dapat ditampilkan di kartu. Kami tidak mengoperasikan unggahan cloud atas gambar khusus Anda sebagai bagian dari Aplikasi."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.3 Pembelian dan langganan</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Pembelian diproses oleh <strong>Apple App Store</strong> atau <strong>Google Play</strong>. Kami menggunakan <strong>RevenueCat</strong> untuk memvalidasi hak dan status langganan di dalam Aplikasi. RevenueCat dapat memproses pengidentifikasi dan peristiwa pembelian yang diperlukan untuk menyediakan layanan tersebut. Apple dan Google dapat mengaitkan pembelian dengan akun toko Anda."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apple Kebijakan Privasi: <a href=\"https://www.apple.com/legal/privacy/\" rel=\"noopener noreferrer\">apple.com/legal/privacy</a>",
+        "Google Kebijakan Privasi: <a href=\"https://policies.google.com/privacy\" rel=\"noopener noreferrer\">policies.google.com/privacy</a>",
+        "RevenueCat: <a href=\"https://www.revenuecat.com/privacy\" rel=\"noopener noreferrer\">revenuecat.com/privacy</a>"
+      ]
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.4 Fitur perangkat</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Aplikasi dapat menggunakan kemampuan perangkat seperti <strong>haptics</strong>, gaya <strong>bilah status</strong>, atau perilaku <strong>keyboard</strong>. Fitur-fitur ini digunakan secara lokal untuk meningkatkan pengalaman dan tidak digunakan oleh kami untuk membuat profil Anda."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.5 Analisis dan pelaporan kerusakan</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Basis kode dan dependensi untuk Aplikasi, sebagaimana dirilis berdasarkan Kebijakan ini, <strong>tidak</strong> menyertakan analisis pihak ketiga atau layanan pelaporan kerusakan yang terintegrasi. Pencatatan log diagnostik mungkin muncul di <strong>build pengembangan saja</strong> dan tidak ditujukan untuk pengguna akhir produksi. Jika nanti kami menambahkan analitik atau pelaporan kerusakan, kami akan memperbarui Kebijakan ini dan, jika diwajibkan oleh hukum, meminta persetujuan Anda."
+    },
+    {
+      "type": "p",
+      "html": "<strong>3.6 Tautan dan konten eksternal</strong>"
+    },
+    {
+      "type": "p",
+      "html": "Aplikasi dapat membuka halaman web (misalnya dokumen hukum atau manajemen langganan) di browser Anda atau tampilan browser dalam aplikasi. Situs-situs tersebut dioperasikan oleh pihak ketiga dan memiliki praktik privasinya sendiri."
+    },
+    {
+      "type": "h2",
+      "text": "4. Dasar hukum (pengguna EEA/UK)"
+    },
+    {
+      "type": "p",
+      "html": "Jika hukum yang berlaku memerlukan dasar hukum: kami memproses data terkait pembelian untuk <strong>melaksanakan kontrak kami</strong> dengan Anda (menyediakan fitur premium); kami memproses data aplikasi lokal berdasarkan <strong>penggunaan Anda atas Aplikasi</strong> dan, jika relevan, <strong>kepentingan yang sah</strong> dalam mengoperasikan dan mengamankan Aplikasi, dengan mempertimbangkan hak-hak Anda."
+    },
+    {
+      "type": "h2",
+      "text": "5. Retensi"
+    },
+    {
+      "type": "p",
+      "html": "Data lokal tetap ada sampai Anda menghapusnya atau mencopot pemasangan Aplikasi (atau menghapus penyimpanan browser untuk pembuatan web). Catatan yang dimiliki oleh Apple, Google, atau RevenueCat dipertahankan sebagaimana dijelaskan dalam kebijakan mereka."
+    },
+    {
+      "type": "h2",
+      "text": "6. Anak-anak"
+    },
+    {
+      "type": "p",
+      "html": "Aplikasi ini tidak ditujukan kepada anak-anak di bawah umur yang diwajibkan oleh wilayah Anda untuk menyetujui pemrosesan data tanpa izin orang tua. Jika Anda yakin kami telah mengumpulkan informasi pribadi dari seorang anak secara tidak pantas, hubungi kami dan kami akan mengambil langkah-langkah yang wajar untuk mengatasinya."
+    },
+    {
+      "type": "h2",
+      "text": "7. Hak Anda"
+    },
+    {
+      "type": "p",
+      "html": "Tergantung pada lokasi Anda, Anda mungkin memiliki hak untuk mengakses, memperbaiki, menghapus, atau membatasi pemrosesan tertentu, atau untuk menolak atau mentransfer data. Hubungi kami di email di atas. Anda juga dapat mengajukan keluhan kepada otoritas perlindungan data setempat. Untuk data pembelian dan penerimaan, Apple atau Google mungkin merupakan kontak utama berdasarkan kebijakan mereka."
+    },
+    {
+      "type": "h2",
+      "text": "8. Transfer internasional"
+    },
+    {
+      "type": "p",
+      "html": "Penyedia layanan kami mungkin memproses data di negara selain negara Anda. Jika diperlukan, mereka menggunakan perlindungan yang sesuai (seperti klausul kontrak standar)."
+    },
+    {
+      "type": "h2",
+      "text": "9. Perubahan"
+    },
+    {
+      "type": "p",
+      "html": "Kami dapat memperbarui Kebijakan ini dari waktu ke waktu. Kami akan memposting versi baru di halaman ini dan memperbarui tanggal \"Terakhir diperbarui\". Penggunaan Aplikasi yang berkelanjutan setelah perubahan berarti Anda menerima Kebijakan yang diperbarui, sejauh diizinkan oleh hukum."
+    },
+    {
+      "type": "h2",
+      "text": "10. Kontak"
+    },
+    {
+      "type": "p",
+      "html": "Pertanyaan: <a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

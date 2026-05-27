@@ -1,0 +1,122 @@
+export default {
+  "pageTitle": "Termini di utilizzo -Pairloom",
+  "h1": "Termini di utilizzo",
+  "metaHtml": "<strong>Pairloom</strong> (gioco di memoria) · ID app <code>game.memory.cards</code> · Ultimo aggiornamento: <time datetime=\"2026-04-04\">4 aprile 2026</time>",
+  "blocks": [
+    {
+      "type": "p",
+      "html": "Le presenti Condizioni d'uso (\"Condizioni\") regolano l'utilizzo dell'applicazione<strong>Pairloom</strong>(l'“App”) fornita da<strong>Sergey Kosilov</strong>(sviluppatore indipendente; \"noi\", \"ci\"), comprese le build native per dispositivi mobili e qualsiasi build del browser che distribuiamo. Scaricando o utilizzando l'App, accetti i presenti Termini. Se non sei d'accordo, non utilizzare l'App."
+    },
+    {
+      "type": "h2",
+      "text": "1. Il servizio"
+    },
+    {
+      "type": "p",
+      "html": "Pairloomè un gioco di abbinamento di memoria casuale. Alcune funzionalità sono disponibili gratuitamente; altri richiedono un attivo<strong>premio</strong>diritto (tramite abbonamento o acquisto una tantum \"a vita\"), come offerto nell'App e nello store."
+    },
+    {
+      "type": "h2",
+      "text": "2. Idoneità"
+    },
+    {
+      "type": "p",
+      "html": "È necessario rispettare l'età minima e le regole dell'account delApple App StoreOGoogleGioca nel tuo paese. Se sei minorenne, un genitore o tutore deve accettare i presenti Termini per tuo conto ove richiesto dalla legge."
+    },
+    {
+      "type": "h2",
+      "text": "3. Abbonamenti, acquisti e prova premium limitata"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Fatturazione.</strong>I pagamenti vengono elaborati da<strong>Apple</strong>O<strong>Google</strong>, non da noi direttamente. L'utilizzo di tali piattaforme è soggetto ai loro termini e alle politiche sulla privacy.",
+        "<strong>Rinnovo automatico.</strong>Se acquisti un abbonamento, si rinnoverà automaticamente finché non lo annulli nelle impostazioni dell'account del negozio. Puoi gestire o annullare gli abbonamenti inApp StoreOGoogleGioca alle impostazioni dell'abbonamento. Su iOS, puoi anche utilizzareApplela pagina di gestione dell'abbonamento di collegata dall'app, ove applicabile.",
+        "<strong>Prova e prezzi.</strong>Le prove gratuite, i prezzi di lancio e i prezzi di rinnovo vengono visualizzati nello store al momento dell'acquisto.",
+        "<strong>Prova premium limitata.</strong>Se non sei iscritto, l'App potrebbe consentirti di completare a<strong>numero limitato</strong>di giochi che utilizzano determinate opzioni premium (ad esempio tabelloni più grandi, temi aggiuntivi o foto personalizzate). Il limite e gli utilizzi rimanenti sono indicati o impliciti nell'App. Dopo il limite, devi acquistare o abbonarti per continuare a utilizzare le opzioni premium (soggetto alle offerte del negozio).",
+        "<strong>Sblocco a vita.</strong>Se offerto, un acquisto \"a vita\" di beni non consumabili sblocca il diritto al premio per tutto il tempo in cui supportiamo ragionevolmente l'App, come descritto nell'elenco dello Store.",
+        "<strong>Rimborsi.</strong>Le richieste di rimborso sono gestite daAppleOGooglesecondo le loro politiche."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4. Licenza per utilizzare l'App"
+    },
+    {
+      "type": "p",
+      "html": "Ti concediamo una licenza personale, non esclusiva, non trasferibile e revocabile per installare e utilizzare l'App per il tuo intrattenimento non commerciale, soggetta ai presenti Termini e alle regole del negozio. Non è possibile copiare, modificare, distribuire, vendere o decodificare l'App tranne nei casi in cui la legge obbligatoria lo consente."
+    },
+    {
+      "type": "h2",
+      "text": "5. Contenuti utente (le tue foto)"
+    },
+    {
+      "type": "p",
+      "html": "Se utilizzi funzionalità che ti consentono di selezionare immagini dal tuo dispositivo, sei responsabile del diritto di utilizzare tali immagini. Le immagini utilizzate per le carte personalizzate vengono archiviate<strong>localmente sul tuo dispositivo</strong>come parte del funzionamento dell'App. Non utilizzare contenuti illegali, illeciti o dannosi."
+    },
+    {
+      "type": "h2",
+      "text": "6. Uso accettabile"
+    },
+    {
+      "type": "p",
+      "html": "L'utente accetta di non utilizzare in modo improprio l'App, incluso tentare di ingannare la fatturazione, interferire con i sistemi di altri utenti o violare la legge applicabile."
+    },
+    {
+      "type": "h2",
+      "text": "7. Proprietà intellettuale"
+    },
+    {
+      "type": "p",
+      "html": "L'App, il suo design, le sue risorse e il suo marchio sono di proprietà di noi o dei nostri concessori di licenza. Ad eccezione della licenza limitata di cui sopra, non viene concesso alcun diritto."
+    },
+    {
+      "type": "h2",
+      "text": "8. Esclusione di garanzie"
+    },
+    {
+      "type": "p",
+      "html": "L'App viene fornita \"così com'è\" e \"come disponibile\" nella misura massima consentita dalla legge. Non garantiamo un funzionamento ininterrotto o privo di errori."
+    },
+    {
+      "type": "h2",
+      "text": "9. Limitazione di responsabilità"
+    },
+    {
+      "type": "p",
+      "html": "Nella misura massima consentita dalla legge applicabile, non siamo responsabili per danni indiretti, incidentali, speciali, consequenziali o punitivi o per qualsiasi perdita di profitti o dati derivanti dall'utilizzo dell'App. La nostra responsabilità totale per qualsiasi reclamo relativo all'App è limitata all'importo pagato nei dodici (12) mesi precedenti il ​​reclamo (se presente) o, se superiore, all'importo minimo richiesto dalla legge obbligatoria sui consumatori nella tua giurisdizione."
+    },
+    {
+      "type": "h2",
+      "text": "10. Modifiche all'App o ai Termini"
+    },
+    {
+      "type": "p",
+      "html": "Potremmo aggiornare l'App o i presenti Termini. Le modifiche sostanziali si rifletteranno nell'aggiornamento di questa pagina e nella data di \"Ultimo aggiornamento\". L'uso continuato dopo le modifiche costituisce accettazione ove consentito dalla legge. Se non sei d'accordo, smetti di utilizzare l'App e annulla qualsiasi abbonamento tramite lo store."
+    },
+    {
+      "type": "h2",
+      "text": "11. Risoluzione"
+    },
+    {
+      "type": "p",
+      "html": "Potremo sospendere o interrompere la fornitura dell'App o il tuo accesso in caso di violazione dei presenti Termini o se richiesto dalla legge. Puoi smettere di usare l'App in qualsiasi momento."
+    },
+    {
+      "type": "h2",
+      "text": "12. Legge applicabile"
+    },
+    {
+      "type": "p",
+      "html": "I presenti Termini sono regolati dalle leggi del<strong>Federazione Russa</strong>, escluse le norme sul conflitto di leggi, salvo laddove le leggi obbligatorie sulla tutela dei consumatori del tuo Paese richiedano diversamente."
+    },
+    {
+      "type": "h2",
+      "text": "13. Contatto"
+    },
+    {
+      "type": "p",
+      "html": "<strong>Sergey Kosilov</strong>(sviluppatore indipendente)<br /><a href=\"mailto:supp0rt.serg@yandex.com\">supp0rt.serg@yandex.com</a>"
+    }
+  ]
+};

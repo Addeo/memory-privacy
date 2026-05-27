@@ -1,0 +1,17 @@
+export default {
+  "navLabel": "語言",
+  "navHome": "家",
+  "navPrivacy": "隱私權政策",
+  "navTerms": "使用條款",
+  "footerPrivacy": "隱私權政策",
+  "footerTerms": "使用條款",
+  "footerAll": "所有文件",
+  "footerNavLabel": "相關文件",
+  "indexTitle": "Pairloom— 法律文件",
+  "indexHeading": "法律文件",
+  "indexIntro": "隱私權政策和使用條款Pairloom（記憶卡遊戲）。操作員：Sergey Kosilov（獨立開發者）。",
+  "indexDocsHeading": "文件",
+  "indexPrivacyLink": "隱私權政策",
+  "indexTermsLink": "使用條款",
+  "indexContactLabel": "接觸："
+};
